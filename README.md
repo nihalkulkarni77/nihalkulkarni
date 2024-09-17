@@ -6,7 +6,7 @@
 - 📫 How to reach me **nihalkulkarni50@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nihal-kulkarni-612a0010b/](https://www.linkedin.com/in/nihal-kulkarni-612a0010b/)
-# As a seasoned professional with nearly 3 years of experience in the data field, I bring a unique blend of expertise in both operational excellence and data annotation. 
+As a seasoned professional with nearly 3 years of experience in the data field, I bring a unique blend of expertise in both operational excellence and data annotation. 
  In my role as an Operational Excellence Engineer, I honed my skills in process optimization, project management, and quality assurance. I successfully led initiatives to streamline workflows, improve efficiencies, and drive cost savings within diverse operational environments.
  Transitioning into the role of a Data Annotation Engineer, I delved deeper into the realm of data analysis and management. I developed a keen understanding of data labeling techniques, annotation tools, and quality control processes essential for training machine learning models and enhancing data accuracy.
  My passion lies in leveraging data-driven insights to inform strategic decision-making and fuel business growth. With a strong foundation in statistical analysis, programming languages such as Python and proficiency in data visualization tools, I am equipped to tackle complex data challenges and drive actionable results.
