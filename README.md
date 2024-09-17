@@ -14,8 +14,11 @@ As a seasoned professional with nearly 3 years of experience in the data field, 
  I am eager to connect with professionals in the data science and analytics community to exchange ideas, collaborate on projects, and explore new opportunities for growth and development.
 
 🔑 Key Skills: Data analytics, Statistical analysis, Hypothesis Testing, Predictive Analytics, Problem Solving, Power BI.
+
 🌐 Languages: SQL, Python.
+
 💾 Database: Microsoft SQL Server, PostgreSQL, MySQL.
+
 📚 Other: Excel, AWS Cloud, Git
 
 <h3 align="left">Connect with me:</h3>
